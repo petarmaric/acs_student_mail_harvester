@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='acs_student_mail_harvester',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/petarmaric/acs_student_mail_harvester',
     license='BSD',
     author='Petar Maric',

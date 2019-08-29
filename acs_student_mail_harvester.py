@@ -8,7 +8,7 @@ import tarfile
 from configobj import ConfigObj, ConfigObjError
 
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 
 STUDENT_INFO_FILENAME = 'student-info.ini'
