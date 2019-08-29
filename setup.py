@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='acs_student_mail_harvester',
     version='1.0.0',
-    url='https://bitbucket.org/petar/acs_student_mail_harvester',
+    url='https://github.com/petarmaric/acs_student_mail_harvester',
     license='BSD',
     author='Petar Maric',
     author_email='petarmaric@uns.ac.rs',
